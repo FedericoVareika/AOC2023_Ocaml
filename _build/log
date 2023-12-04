@@ -1,0 +1,5 @@
+# dune init proj AOC2023
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Users/fede/Desktop/ocaml/AOC2023
+# Auto-detected concurrency: 8
