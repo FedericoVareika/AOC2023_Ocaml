@@ -1,4 +1,6 @@
 (executables
- (public_names day01 day02)
- (names day01 day02)
- (libraries AOC2023 stdio))
+ (public_names day01 day02 day03 day04)
+ (names day01 day02 day03 day04)
+ (libraries AOC2023 stdio fmt)
+ (preprocess
+  (pps ppx_deriving.show)))
