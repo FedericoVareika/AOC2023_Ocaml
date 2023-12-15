@@ -14,3 +14,6 @@ module Day04 = Dune__exe__Day04
 
 (** @canonical Dune__exe.Day05 *)
 module Day05 = Dune__exe__Day05
+
+(** @canonical Dune__exe.Day06 *)
+module Day06 = Dune__exe__Day06
