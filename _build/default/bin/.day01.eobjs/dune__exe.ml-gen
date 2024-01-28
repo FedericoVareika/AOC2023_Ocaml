@@ -26,3 +26,6 @@ module Day08 = Dune__exe__Day08
 
 (** @canonical Dune__exe.Day09 *)
 module Day09 = Dune__exe__Day09
+
+(** @canonical Dune__exe.Day10 *)
+module Day10 = Dune__exe__Day10
